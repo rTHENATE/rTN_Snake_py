@@ -1,4 +1,3 @@
-# rTN_Snake
 # Python Snake Game
 
 snake.py
